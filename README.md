@@ -75,8 +75,8 @@ The dataset is not included in this repository. Add your own copy if you have pe
 ### 1. Clone or download the project
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone `https://github.com/ParthaRoy10/Electricity-Load-Forecasting`
+cd `Electricity-Load-Forecasting`
 ```
 
 ### 2. Create and activate a virtual environment
