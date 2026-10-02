@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Local data (may be large or licensed)
+electricityDemand.csv
+data/
+datasets/
+
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
